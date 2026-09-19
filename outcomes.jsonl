@@ -477,23 +477,23 @@
 {"file_id":"scan_003.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
 {"file_id":"scan_004.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
 {"file_id":"scan_005.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
-{"file_id":"scan_006.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
+{"file_id":"scan_006.pdf","result":"ESCALAR","motivo":"la lectura del documento no es firme (confianza 0.6): se eligió reconciliándola con el maestro, no se leyó limpia","norma_version":"v3","regla":"v3.R6"}
 {"file_id":"scan_007.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
 {"file_id":"scan_008.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
-{"file_id":"scan_009.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
+{"file_id":"scan_009.pdf","result":"ESCALAR","motivo":"la lectura del documento no es firme (confianza 0.6): se eligió reconciliándola con el maestro, no se leyó limpia","norma_version":"v3","regla":"v3.R6"}
 {"file_id":"scan_010.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
-{"file_id":"scan_011.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
-{"file_id":"scan_012.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
+{"file_id":"scan_011.pdf","result":"ESCALAR","motivo":"la lectura del documento no es firme (confianza 0.6): se eligió reconciliándola con el maestro, no se leyó limpia","norma_version":"v3","regla":"v3.R6"}
+{"file_id":"scan_012.pdf","result":"ESCALAR","motivo":"la lectura del documento no es firme (confianza 0.6): se eligió reconciliándola con el maestro, no se leyó limpia","norma_version":"v3","regla":"v3.R6"}
 {"file_id":"scan_013.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
 {"file_id":"scan_014.pdf","result":"ESCALAR","motivo":"anomalía que debe ver una persona: importe_ambiguo","norma_version":"v3","regla":"v3.R6"}
 {"file_id":"scan_015.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
 {"file_id":"scan_016.pdf","result":"ESCALAR","motivo":"el IBAN de la factura no coincide con el del maestro para P011","norma_version":"v3","regla":"v3.R1"}
-{"file_id":"scan_017.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
+{"file_id":"scan_017.pdf","result":"ESCALAR","motivo":"la lectura del documento no es firme (confianza 0.6): se eligió reconciliándola con el maestro, no se leyó limpia","norma_version":"v3","regla":"v3.R6"}
 {"file_id":"scan_018.pdf","result":"ESCALAR","motivo":"el IBAN de la factura no coincide con el del maestro para P002","norma_version":"v3","regla":"v3.R1"}
 {"file_id":"scan_021.pdf","result":"ESCALAR","motivo":"el NIF B90203806 no está en el maestro de proveedores","norma_version":"v3","regla":"v3.R1"}
 {"file_id":"scan_022.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
 {"file_id":"scan_023.pdf","result":"ESCALAR","motivo":"el NIF B96233418 no está en el maestro de proveedores","norma_version":"v3","regla":"v3.R1"}
-{"file_id":"scan_025.pdf","result":"ESCALAR","motivo":"anomalía que debe ver una persona: texto_instruccion · el documento dice: \"None\"","norma_version":"v3","regla":"v3.R6"}
+{"file_id":"scan_025.pdf","result":"ESCALAR","motivo":"anomalía que debe ver una persona: documento_superpuesto","norma_version":"v3","regla":"v3.R6"}
 {"file_id":"scan_026.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
 {"file_id":"scan_027.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
 {"file_id":"scan_028.pdf","result":"PAGAR","motivo":"todas las reglas cumplidas","norma_version":"v3"}
